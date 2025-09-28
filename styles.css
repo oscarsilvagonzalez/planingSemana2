@@ -38,7 +38,7 @@ body {
     justify-content: space-around;
     h1{
         text-align: center;
-        color: green;
+        color: rgb(135, 23, 47);
         font-weight: 600;
         text-transform: uppercase;
         letter-spacing: .1px;
@@ -59,7 +59,7 @@ body {
         margin: 1em;
         text-align: center;
         .h2{
-            color: rgba(239, 182, 255, 0.845);
+            color: rgba(179, 67, 207, 0.845);
         }
         a{
             transition: .3s all ease-in-out;
